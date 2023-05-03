@@ -5,7 +5,7 @@ import os
 from PIL import Image
 
 with st.sidebar:
-    image = Image.open("C:\\Users\\Akshat\\Pictures\\robynne-hu-HOrhCnQsxnQ-unsplash.jpg")
+    image = Image.open("C:\\Users\\Akshat\\Documents\\PyCharmProjects\\Colovolution App\\robynne-hu-HOrhCnQsxnQ-unsplash.jpg")
     st.image(image, use_column_width= True)
     st.title(" JUST CONVOLVE ")
     choice = st.radio("Navigation", ["Upload", "ML"])
