@@ -1,0 +1,32 @@
+2023-04-25 12:51:07,181:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-25 12:51:07,181:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-25 12:51:07,181:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-25 12:51:07,181:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-25 12:51:08,223:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-25 16:15:16,693:WARNING:C:\Users\Akshat\Documents\PyCharmProjects\Colovolution App\app.py:42: DeprecationWarning: `np.float` is a deprecated alias for the builtin `float`. To silence this warning, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  res = cv2.filter2D(img, -1, kernel)
+
+2023-04-25 16:15:41,118:WARNING:C:\Users\Akshat\Documents\PyCharmProjects\Colovolution App\app.py:42: DeprecationWarning: `np.float` is a deprecated alias for the builtin `float`. To silence this warning, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  res = cv2.filter2D(img, -1, np.float(kernel))
+
+2023-04-25 16:16:33,533:WARNING:C:\Users\Akshat\Documents\PyCharmProjects\Colovolution App\app.py:42: DeprecationWarning: `np.float` is a deprecated alias for the builtin `float`. To silence this warning, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  res = cv2.filter2D(img, -1, np.float(kernel))
+
+2023-04-25 16:16:48,130:WARNING:C:\Users\Akshat\Documents\PyCharmProjects\Colovolution App\app.py:42: DeprecationWarning: `np.float` is a deprecated alias for the builtin `float`. To silence this warning, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  res = cv2.filter2D(img, -1, np.float(np.array(kernel)))
+
+2023-04-25 16:29:26,084:WARNING:C:\Users\Akshat\Documents\PyCharmProjects\Colovolution App\app.py:37: UserWarning: loadtxt: input contained no data: "<_io.StringIO object at 0x000001310542F010>"
+  kernel = np.loadtxt(text)
+
+2023-04-25 16:29:33,174:WARNING:C:\Users\Akshat\Documents\PyCharmProjects\Colovolution App\app.py:37: UserWarning: loadtxt: input contained no data: "<_io.StringIO object at 0x000001310542E830>"
+  kernel = np.loadtxt(text)
+
